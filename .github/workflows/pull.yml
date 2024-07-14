@@ -54,6 +54,6 @@ jobs:
         body: |
           This pull request introduces a new features and components is designed to be customizable and reusable, providing consistent sections across the application.
 
-        branch: auto-pr-branch # This is the branch the PR will be created from
+        branch: ui # This is the branch the PR will be created from
         base: main # This is the target branch for the PR
         draft: false # Create a draft pull request (optional, set to true if you want it as draft)
